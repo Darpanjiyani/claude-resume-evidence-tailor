@@ -1,0 +1,22 @@
+# Generated resumes and reports
+*.docx
+*.pdf
+*_report.md
+outputs/
+
+# Private copies of your evidence bank and resumes
+*private*
+evidence_bank.real.md
+resumes/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Keep the example files
+!examples/*.md
